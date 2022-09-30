@@ -1,0 +1,50 @@
+--------------
+git software 
+--------------------
+https://git-scm.com/downloads
+https://git-scm.com/download/win
+
+
+--------------------------
+git register
+------------------------
+https://github.com/
+
+
+-----------------------------------------
+this is step for 
+---------------------------------------------
+git config --global user.name "hardik270593" (this is for config user name )
+
+git config --global user.email"hardikstar005@gmail.com" (  this is for config email_id)
+
+git config -l ( other configration) 
+
+git init ( inisalizing your repository) 
+
+git config -s =this is for seeing cod 
+
+ls ( it is checking folder path) 
+
+git status ( this is for see what happen in git.)
+
+git commit -m "my first commit"( update local repository.)
+
+git branch -m master main ( covert master to main)
+
+git remote add origin https://github.com/hardik270593/Homework.git ( for connect to git.hub(it show in git hub account))
+
+git remote -v (it show that you have somthing to fetch) 
+
+
+------------------------------------
+update file 
+------------------------------------------
+git status
+
+git add .
+
+git commit -m "this is new update "
+
+git push -u origin main
+
